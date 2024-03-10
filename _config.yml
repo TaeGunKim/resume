@@ -40,16 +40,9 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/tete.jpg
+about_profile_image: images/tete.png
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요 웹개발자 김태건입니다.
-  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-  #   - Lists
-  #   - Tables
-  #   - <a href="google.com">Links</a>
-  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  안녕하세요. 김태건입니다.  
 
 content:
   - title: Projects # Title for the section
@@ -58,35 +51,95 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          # Short overview of the project (optional)
+        title: 수문장 교대의식 물품관리 시스템 개발
+        link: #
+        link_text: 2012.10~2012.11
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: #
         description: | # this will include new lines to allow paragraphs
-          - 수문장 교대의식 물품관리 시스템 개발
-          - 부천시 공공 홈페이지 통합운영 개편사업
-          - 행복중심생협 커머스 홈페이지 개발/운영
-          - 행복중심생협 웹포스 홈페이지 개발/운영
+          - spring, JSP, mysql
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 부천시 공공 홈페이지 통합운영 개편사업
+        link: #
+        link_text: 2012.11~2014.12
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: #
+        description: | # this will include new lines to allow paragraphs
+          - spring, JSP, Oracle, MS SQL, MY SQL
+          - ASP,PHP 의 사이트를 JSP로 이관 개발
+          - 부천시청 산하 기관의 모든 홈페이지를 이관 개발 및 유지보수
+          - 부천시 상수도 (결제)
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 행복중심생협 내부 개발
+        link: #
+        link_text: 2012.11~2014.12
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: #
+        description: | # this will include new lines to allow paragraphs
+          - spring, JSP, MS SQL, MY SQL, angularJS
+          - 행복중심생협의 커머스 사이트 개발
+          - 내부 ERP 와 연동하며 커머스 개발  
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: (주)이니스트
+        sub_title: 웹개발팀
+        caption: 사원-대리 (2012.10 ~ 2014.12)
+        link: Link to company (eg. http://www.ineast.co.kr/)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+      - layout: right
+        title: 행복중심생협 연합회
+        sub_title: 전산팀
+        caption: 대리 (2016.05 ~ 2019.10)
+        link: Link to company (eg. http://happycoop.or.kr/)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role    
+      - layout: right
+        title: (주)파스토
+        sub_title: 세틀먼트팀
+        caption: 매니저 (2019.10 ~ 2020.12)
+        link: Link to company (eg. https://www.fassto.ai/)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
+        title: (주)클라우드씨아이
+        sub_title: 개발팀
+        caption: 프로 (2021.02 ~ 현재)
+        link: Link to company (eg. http://www.cloudci.co.kr/)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role           
   - title: Education
     layout: list
     content:

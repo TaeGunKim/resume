@@ -128,21 +128,21 @@ content:
       link: #Link to company (optional)
       quote: #
       description:
-          1. 사내 인트라넷 (php)
+          - 1. 사내 인트라넷 (php)
           - 유지보수 및 커머스 상담 게시판과 연동
           - php 유지보수 요청 게시판 개발
           - 기타 요청사항 추가 개발 담당
 
-          2. 생산자 인트라넷 (php)
+          - 2. 생산자 인트라넷 (php)
           - 유지보수 및 사내 ERP와의 데이터 연동
           - ERP 계산식의 변동에 따라 반영
           - 일별데이터 및 월별데이터 변경시 적용
 
-          3. 행복날개(php)
+          - 3. 행복날개(php)
           - 컨텐츠/게시판 사이트
           - 유지보수
 
-          4. ERP(델파이)
+          - 4. ERP(델파이)
           - 서브 개발로 쿼리 분석 및 간단한 메뉴 유지보수 개발
     - layout: left
       border: weak
@@ -152,8 +152,8 @@ content:
       quote: #
       description:
           - spring boot, java(1.8), thymeleaf, JENKINS, Git
-          1. ㈜파스토 내부 풀필먼트 시스템(FMS)에서 정산(결제) 시스템 유지보수 담당
-          2. 정산(결제) MSA 프로젝트 고도화 개발 (spring boot)
+          - 1. ㈜파스토 내부 풀필먼트 시스템(FMS)에서 정산(결제) 시스템 유지보수 담당
+          - 2. 정산(결제) MSA 프로젝트 고도화 개발 (spring boot)
     - layout: left
       border: weak
       title: 네이버 풀필먼트 (NFA) 견적문의

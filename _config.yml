@@ -55,7 +55,7 @@ content:
       link: #Link to company (optional)
       quote: #
       description:
-        spring(2.5), java(1.6), JSP, mysql
+        spring(2.5), java(1.6), JSP, mysql<br/>
 
         물품관리 시스템 개발, 물품코드 DB설계, 기본적인 CRUD 담당, JAVA, JSP, MYSQL
     - layout: left
@@ -195,7 +195,7 @@ content:
           spring boot, java, reactJS, mysql
 
           삼성 SDS의 DataInfomationSystem 개발
-          
+
           데이터 카탈로그 사이트
   - title: Experience
     layout: list

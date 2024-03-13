@@ -56,6 +56,7 @@ content:
       quote: #
       description:
         spring(2.5), java(1.6), JSP, mysql
+
         물품관리 시스템 개발, 물품코드 DB설계, 기본적인 CRUD 담당, JAVA, JSP, MYSQL
     - layout: left
       border: weak
@@ -65,6 +66,7 @@ content:
       quote: #
       description:
           spring(2.5), java(1.6), JSP, Oracle, MS SQL, MY SQL, SVN
+
           부천시, 3개 구청(오정구청/원미구청/소사구청) 홈페이지 모바일웹사이트 제작, DB서버이관 담당
     - layout: left
       border: weak
@@ -74,6 +76,7 @@ content:
       quote: #
       description:
           부천시 산하기관(복지관13개, 산하국 15개, 동사무소 36개),의 홈페이지 신규개발 및 유지보수
+
           부천시 상수도, 열린시장실(콘텐츠 제작 담당), 40주년, 공동주택 등 부천시청 에서 기획한 모든 홈페이지 개발 및 운영 담당
     - layout: left
       border: weak
@@ -91,11 +94,17 @@ content:
       quote: #
       description:
           spring(3.0), java(1.8), JSP, MS SQL, MY SQL, angularJS, JENKINS, SVN
+
           구 ASP사이트로 된 발주 시스템을 Angularjs를 사용하여 모바일 호환되도록 개발
+
           초기개발 참여 및 이후 유지보수 운영인력
+
           프로그램 개발로는 로그인, 회원정보, 권한부분 개발, 기존 ASP 사이트의 DB 이관
+
           각 매장에서 발주입력 및 물류에서의 자동입고검수 프로그램 개발
+
           매장 POS와 연동되는 선입금 시스템 개발
+
           행복중심생협 커머스 홈페이지의 관리 기능을 추가함
     - layout: left
       border: weak
@@ -105,11 +114,17 @@ content:
       quote: #
       description:
           spring(3.0), java(1.8), JSP, MS SQL, MY SQL, JENKINS, SVN
+
           구 PHP사이트로 된 커머스 사이트를 java기반으로 변경
+
           고객 관리 및 결제프로그램(장바구니 및 KCP결제), DB이관 담당
+
           사내 ERP및 인트라넷시스템과 연동 추가개발
+
           회원가입 개발 및 결제(모바일)시스템 연동
+
           어린이집 회원을 위한 후결제시스템 개발
+
           반응형으로 제작
     - layout: left
       border: weak
@@ -119,7 +134,9 @@ content:
       quote: #
       description:
           구 워드프레구 워드프레스사이트 를 JAVA 기반으로 변경
+
           DB이관 및 전체 컨텐츠, 게시판 홈페이지
+
           모바일 반응형사이트 를 JAVA 기반으로 변경
     - layout: left
       border: weak
@@ -152,7 +169,9 @@ content:
       quote: #
       description:
           spring boot, java(1.8), thymeleaf, JENKINS, Git
+
           1. ㈜파스토 내부 풀필먼트 시스템(FMS)에서 정산(결제) 시스템 유지보수 담당
+
           2. 정산(결제) MSA 프로젝트 고도화 개발 (spring boot)
     - layout: left
       border: weak
@@ -162,7 +181,9 @@ content:
       quote: #
       description:
           네이버 쇼핑의 판매자를 풀필먼트사와 연결하는 API 개발
+
           네이버에서 상담하면, 파스토 내부 홈페이지에서 견적 답변을 주는 방식으로 개발
+
           네이버 풀필먼트 (NFA) 견적문의 개발 담당
     - layout: left
       border: weak
@@ -172,7 +193,9 @@ content:
       quote: #
       description:
           spring boot, java, reactJS, mysql
+
           삼성 SDS의 DataInfomationSystem 개발
+          
           데이터 카탈로그 사이트
   - title: Experience
     layout: list

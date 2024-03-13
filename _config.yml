@@ -115,17 +115,17 @@ content:
       description:
           spring(3.0), java(1.8), JSP, MS SQL, MY SQL, JENKINS, SVN
 
-          구 PHP사이트로 된 커머스 사이트를 java기반으로 변경
+          <br/>구 PHP사이트로 된 커머스 사이트를 java기반으로 변경
 
-          고객 관리 및 결제프로그램(장바구니 및 KCP결제), DB이관 담당
+          <br/>고객 관리 및 결제프로그램(장바구니 및 KCP결제), DB이관 담당
 
-          사내 ERP및 인트라넷시스템과 연동 추가개발
+          <br/>사내 ERP및 인트라넷시스템과 연동 추가개발
 
-          회원가입 개발 및 결제(모바일)시스템 연동
+          <br/>회원가입 개발 및 결제(모바일)시스템 연동
 
-          어린이집 회원을 위한 후결제시스템 개발
+          <br/>어린이집 회원을 위한 후결제시스템 개발
 
-          반응형으로 제작
+          <br/>반응형으로 제작
     - layout: left
       border: weak
       title: 행복중심생협 연합회 홈페이지 개발
@@ -135,9 +135,9 @@ content:
       description:
           구 워드프레구 워드프레스사이트 를 JAVA 기반으로 변경
 
-          DB이관 및 전체 컨텐츠, 게시판 홈페이지
+          <br/>DB이관 및 전체 컨텐츠, 게시판 홈페이지
 
-          모바일 반응형사이트 를 JAVA 기반으로 변경
+          <br/>모바일 반응형사이트 를 JAVA 기반으로 변경
     - layout: left
       border: weak
       title: 행복중심생협 내부 시스템 유지보수 및 웹사이트 담당
@@ -146,21 +146,21 @@ content:
       quote: #
       description:
           1. 사내 인트라넷 (php)
-          유지보수 및 커머스 상담 게시판과 연동
-          php 유지보수 요청 게시판 개발
-          기타 요청사항 추가 개발 담당
-
+          <br/>유지보수 및 커머스 상담 게시판과 연동
+          <br/>php 유지보수 요청 게시판 개발
+          <br/>기타 요청사항 추가 개발 담당
+          <br/><br/>
           2. 생산자 인트라넷 (php)
-          유지보수 및 사내 ERP와의 데이터 연동
-          ERP 계산식의 변동에 따라 반영
-          일별데이터 및 월별데이터 변경시 적용
-
+          <br/>유지보수 및 사내 ERP와의 데이터 연동
+          <br/>ERP 계산식의 변동에 따라 반영
+          <br/>일별데이터 및 월별데이터 변경시 적용
+          <br/><br/>
           3. 행복날개(php)
-          컨텐츠/게시판 사이트
-          유지보수
-
+          <br/>컨텐츠/게시판 사이트
+          <br/>유지보수
+          <br/><br/>
           4. ERP(델파이)
-          서브 개발로 쿼리 분석 및 간단한 메뉴 유지보수 개발
+          <br/>서브 개발로 쿼리 분석 및 간단한 메뉴 유지보수 개발
     - layout: left
       border: weak
       title: 파스토 내부 정산시스템 고도화(MSA) 및 유지보수
@@ -170,9 +170,9 @@ content:
       description:
           spring boot, java(1.8), thymeleaf, JENKINS, Git
 
-          1. ㈜파스토 내부 풀필먼트 시스템(FMS)에서 정산(결제) 시스템 유지보수 담당
+          <br/>1. ㈜파스토 내부 풀필먼트 시스템(FMS)에서 정산(결제) 시스템 유지보수 담당
 
-          2. 정산(결제) MSA 프로젝트 고도화 개발 (spring boot)
+          <br/>2. 정산(결제) MSA 프로젝트 고도화 개발 (spring boot)
     - layout: left
       border: weak
       title: 네이버 풀필먼트 (NFA) 견적문의
@@ -182,9 +182,9 @@ content:
       description:
           네이버 쇼핑의 판매자를 풀필먼트사와 연결하는 API 개발
 
-          네이버에서 상담하면, 파스토 내부 홈페이지에서 견적 답변을 주는 방식으로 개발
+          <br/>네이버에서 상담하면, 파스토 내부 홈페이지에서 견적 답변을 주는 방식으로 개발
 
-          네이버 풀필먼트 (NFA) 견적문의 개발 담당
+          <br/>네이버 풀필먼트 (NFA) 견적문의 개발 담당
     - layout: left
       border: weak
       title: 데이터확산과제 (Data Infomation System)
@@ -194,46 +194,50 @@ content:
       description:
           spring boot, java, reactJS, mysql
 
-          삼성 SDS의 DataInfomationSystem 개발
+          <br/>삼성 SDS의 DataInfomationSystem 개발
 
-          데이터 카탈로그 사이트
+          <br/>데이터 카탈로그 사이트
   - title: Experience
     layout: list
     content:
       - layout: right
+        border: weak
         title: (주)이니스트
         sub_title: 웹개발팀
         caption: 사원-대리 (2012.10 ~ 2014.12)
         link: Link to company (eg. http://www.ineast.co.kr/)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+        quote: #>
+          #Short description of the company (optional)
+        description: #| # this will include new lines to allow paragraphs
+          #Description of role
       - layout: right
+        border: weak
         title: 행복중심생협 연합회
         sub_title: 전산팀
         caption: 대리 (2016.05 ~ 2019.10)
         link: Link to company (eg. http://happycoop.or.kr/)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role    
+        quote: #>
+          #Short description of the company (optional)
+        description: #| # this will include new lines to allow paragraphs
+          #Description of role    
       - layout: right
+        border: weak
         title: (주)파스토
         sub_title: 세틀먼트팀
         caption: 매니저 (2019.10 ~ 2020.12)
         link: Link to company (eg. https://www.fassto.ai/)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+        quote: #>
+          #Short description of the company (optional)
+        description: #| # this will include new lines to allow paragraphs
+          #Description of role
       - layout: right
+        border: weak
         title: (주)클라우드씨아이
         sub_title: 개발팀
         caption: 프로 (2021.02 ~ 현재)
         link: Link to company (eg. http://www.cloudci.co.kr/)
-        quote: >
-          Short description of the company (optional)
+        quote: #>
+          #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role           
   - title: Education
